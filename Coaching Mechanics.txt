@@ -4,8 +4,6 @@
 
 <h1>How to get good in Madden</h1>
 
-<h2>HTML Image</h2>
-
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH8ApiI4TGbCf_8hBfEHyMXPbg-iIOxXpvzBrThNfYa1WWh3gnRe_9Xk3hTupG1BOnvI&usqp=CAU
 
 <p>The game features player-keyed touchdown camera views, additional player solid figures, body types, and improved stadium details. This game is also rated E(For Everyone) and even children can play these types of games. There are options for players just getting into the game and those options are Rookie, Pro, All-Pro, or All- Madden based on the players’ skills.
