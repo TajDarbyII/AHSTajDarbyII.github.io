@@ -22,5 +22,4 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Mortal_Kombat_11_cover_art.png" alt="Mortal Kombat 11 cover art" width="400" height="500">
 
-</body>
-</html>
+
