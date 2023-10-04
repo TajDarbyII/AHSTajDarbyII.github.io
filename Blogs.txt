@@ -3,8 +3,6 @@
 <html>
 <body>
 
-<h1>BLOGS</h1>
-
 <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Spider-Man_Edge_of_Time.jpg" alt="Spider-Man: Edge of Time" width="300" height="500">
 
 <p>(B1)The game features player-keyed touchdown camera views, additional player solid figures, body types, and improved stadium details. This game is also rated E(For Everyone) and even children can play these types of games. There are options for players just getting into the game and those options are Rookie, Pro, All-Pro, or All- Madden based on the players' skills. Free form precision passing can be performed by holding L2/LT and moving the Left Stick. 
