@@ -37,5 +37,4 @@ li a:hover {
 <img src=https://media.istockphoto.com/id/1194478762/sv/vektor/gamepad-controller-konceptet-neonbakgrund.jpg?s=170667a&w=0&k=20&c=orBaY6-IlSGJ6-6cg2nPmxdRJt9dIi-NsWXvGmT6Kss=
 </ul>
 
-</body>
-</html>
+
